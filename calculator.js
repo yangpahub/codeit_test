@@ -1,5 +1,11 @@
-const add = (a, b) => a + b;
+const add = (a, b) => {
+  return a+b;
+}
 
-const substract = (a, b) => a - b;
+const substract = (a, b) => {
+  return a-b ;
+}
 
-const muliply = (a, b) => a * b;
+const muliply = (a, b) => {
+  return a*b ;
+}

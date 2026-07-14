@@ -1,15 +1,11 @@
-function add(a, b)
-{
- return a+b;
+const add = (a, b) => {
+  return a+b;
 }
 
-function substract(a, b)
-{
-  return a-b;
+const substract = (a, b) => {
+  return a-b ;
 }
-const devide = (a, b) => {
-  if (b == 0) {
-    throw new Error();
-  }
-  return a / b;
-};
+
+const muliply = (a, b) => {
+  return a*b ;
+}

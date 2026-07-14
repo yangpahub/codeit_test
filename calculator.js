@@ -1,14 +1,11 @@
 const add = (a, b) => {
-  return a+b;
-}
+  return a + b;
+};
 
 const substract = (a, b) => {
-  return a-b ;
-}
+  return a - b;
+};
 
 const muliply = (a, b) => {
-  return a*b ;
-  return a+b;
-  //hello
-}
-
+  return a * b;
+};
